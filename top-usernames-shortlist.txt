@@ -5,3 +5,4 @@ ansible
 ec2-user
 vagrant
 azureuser
+secret
