@@ -7,3 +7,4 @@ vagrant
 azureuser
 secret
 oracle
+ftpuser
